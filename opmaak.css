@@ -41,3 +41,11 @@ ul li a:hover {
   background-color: #FFFFFF;
   color: black;
 }
+
+img {
+  float: right;
+  margin-left: 15px;
+  width: 720;
+  height: 414px;
+  margin-right: 0;
+}
