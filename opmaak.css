@@ -9,6 +9,8 @@ h1 {
 }
 
 p {
-  font-family: georgia;
-  font-size: 20px;
+  background-color: black;
+  margin: 10px
+  border: black;
+  color: bisque;
 }
