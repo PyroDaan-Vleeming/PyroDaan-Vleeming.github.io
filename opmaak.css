@@ -10,7 +10,7 @@ h1 {
 
 p {
   background-color: black;
-  margin: 10px
-  border: black;
+  margin: 10px;
   color: bisque;
+  border: gray;
 }
