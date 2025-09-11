@@ -5,13 +5,13 @@ body {
   margin-right: 0px;
 }
 
-h1 {
+h1.titel {
   color: black;
   text-align: left;
   margin-left: 10px;
 }
 
-p {
+p.paragraaf {
   background-color: black;
   margin: 10px;
   color: bisque;
