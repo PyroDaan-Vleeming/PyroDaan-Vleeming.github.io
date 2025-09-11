@@ -5,18 +5,6 @@ body {
   margin-right: 0px;
 }
 
-h1.titel {
-  color: black;
-  text-align: left;
-  margin-left: 10px;
-}
-
-p.paragraaf {
-  color: black;
-  margin: 10px;
-  text-align: left;
-}
-
 .menu ul {
   list-style-type: none;
   margin-top: 0px;
@@ -41,6 +29,19 @@ p.paragraaf {
 .menu ul li a:hover {
   background-color: #FFFFFF;
   color: black;
+}
+
+
+h1.titel {
+  margin-left: 10px;
+}
+
+p.paragraaf {
+  margin: 10px;
+}
+
+p.tekst {
+  margin: 10px;
 }
 
 img {
