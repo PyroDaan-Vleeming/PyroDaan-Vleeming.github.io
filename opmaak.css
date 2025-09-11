@@ -16,7 +16,7 @@ p {
   text-align: center;
 }
 
-ul {
+.menu ul {
   list-style-type: none;
   margin-top: 0px;
   margin-left: 0px;
@@ -25,11 +25,11 @@ ul {
   background-color: #333333;
 }
 
-ul li {
+.menu ul li {
   float: left;
 }
 
-ul li a {
+.menu ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -37,7 +37,7 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+.menu ul li a:hover {
   background-color: #FFFFFF;
   color: black;
 }
