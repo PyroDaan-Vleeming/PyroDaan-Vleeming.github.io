@@ -1,5 +1,8 @@
 body {
   background-color: white;
+  margin-top: 43px;
+  margin-left: 44px;
+  margin-right: 65px;
 }
 
 h1 {
@@ -18,9 +21,9 @@ p {
 
 .menu ul {
   list-style-type: none;
-  margin-top: 15px;
-  margin-left: 50px;
-  margin-right: 35px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
   overflow: hidden;
   background-color: #333333;
 }
