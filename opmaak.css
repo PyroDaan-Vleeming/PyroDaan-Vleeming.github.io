@@ -1,8 +1,7 @@
 body {
   background-color: white;
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .menu ul {
@@ -30,7 +29,6 @@ body {
   background-color: #FFFFFF;
   color: black;
 }
-
 
 h1.titel {
   margin-left: 10px;
