@@ -44,6 +44,10 @@ p.tekst {
   margin: 10px;
 }
 
+p.ondertitel {
+  margin: 10px;
+}
+
 img {
   float: right;
   margin-left: 15px;
