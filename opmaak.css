@@ -54,7 +54,8 @@ p.disclaimer {
   border:2px #333333;
   border-radius: 10px;
   width: 50%;
-  padding: 5px
+  padding: 5px;
+  margin-left: 10px
 }
 
 img {
