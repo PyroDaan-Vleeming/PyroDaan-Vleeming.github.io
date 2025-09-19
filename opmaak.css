@@ -50,9 +50,10 @@ p.ondertitel {
 }
 
 p.disclaimer {
-  background-color: chocolate;
-  border: #333333;
+  background-color: rgb(114, 62, 62);
+  border:2px #333333;
   border-radius: 10px;
+  width: 50%;
 }
 
 img {
