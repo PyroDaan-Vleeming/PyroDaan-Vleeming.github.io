@@ -49,6 +49,12 @@ p.ondertitel {
   padding-top: 0%;
 }
 
+p.disclaimer {
+  background-color: chocolate;
+  border: #333333;
+  border-radius: 10px;
+}
+
 img {
   float: right;
   margin-left: 15px;
