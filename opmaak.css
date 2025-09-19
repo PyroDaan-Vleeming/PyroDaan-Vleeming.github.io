@@ -51,7 +51,7 @@ p.ondertitel {
 
 p.disclaimer {
   background-color: rgb(255, 253, 108);
-  border:2px #333333;
+  border: 2px solid black;
   border-radius: 10px;
   width: 50%;
   padding: 5px;
