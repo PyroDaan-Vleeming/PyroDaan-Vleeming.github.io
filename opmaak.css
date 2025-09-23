@@ -75,6 +75,12 @@ img.myck {
   margin-right: 15px;
 }
 
+img.ascii {
+  float: left;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
 button.knop {
   margin-left: 10px;
   margin-top: 1%;
