@@ -59,6 +59,11 @@ p.disclaimer {
   margin-left: 10px
 }
 
+p.intro {
+  margin: 10px;
+  color: whitesmoke;
+}
+
 img {
   float: right;
   margin-left: 15px;
