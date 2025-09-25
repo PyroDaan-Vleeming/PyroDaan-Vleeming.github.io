@@ -3,25 +3,24 @@ body {
   margin-left: 0px;
   margin-right: 0px;
   background-color: white;
-} /*De margins zijn voor het menu zodat het tegen de rand aanzit. De background color is voor de achtergrond kleur*/
+} /*De margins zijn voor het menu zodat het tegen de rand aanzit. De background color is voor de achtergrondkleur*/
 
 .menu ul {
   list-style-type: none;
-  margin-top: 0px;
-  overflow: hidden;
-  background-color: #333333;
+  margin-top: 0px; /*Zodat het menu naar boven zit*/
+  overflow: hidden; /*Als er teveel tekst is dat je dan niet kan scrollen*/
+  background-color: #333333; 
 }
 
 .menu ul li {
-  float: left;
+  float: left; /*Waar de list items zijn gepositioneerd*/
 }
 
 .menu ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  display: block; /*Welke vorm de display heeft.*/
+  color: white; /*Kleur van de tekst*/
+  text-align: center; /*Positie van de tekst in de block*/
+  padding: 14px 16px; /*Ruimte van de tekst ten opzichte van de omgeving*/
 }
 
 .menu ul li a:hover {
