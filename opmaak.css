@@ -3,7 +3,7 @@ body {
   margin-left: 0px;
   margin-right: 0px;
   background-color: white;
-}
+} /*De margins zijn voor het menu zodat het tegen de rand aanzit. De background color is voor de achtergrond kleur*/
 
 .menu ul {
   list-style-type: none;
@@ -30,7 +30,6 @@ body {
   background-color: #FFFFFF;
   color: black;
 }
-
 
 h1.titel {
   margin-left: 10px;
