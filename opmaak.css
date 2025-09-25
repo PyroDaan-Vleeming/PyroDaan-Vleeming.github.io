@@ -27,7 +27,7 @@ body {
 .menu ul li a:hover {
   background-color: #FFFFFF;
   color: black;
-  transition: 1s;
+  transition: 1s; /*Transitieduur*/
 }
 
 h1.titel {
@@ -49,9 +49,9 @@ p.ondertitel {
 
 p.disclaimer {
   background-color: rgb(255, 253, 108);
-  border: 2px solid black;
-  border-radius: 10px;
-  width: 50%;
+  border: 2px solid black; /*Kleur, dikte en type van de border van de doos*/
+  border-radius: 10px; /*Hoeveel ronding heeft de doos*/
+  width: 50%; /*Breedte brekend met de percentage van het scherm*/
   padding: 5px;
   margin-left: 10px
 }
@@ -81,7 +81,7 @@ img.ascii {
 
 button.knop {
   margin-left: 10px;
-  margin-top: 1%;
+  margin-top: 1%; /*Margin berekent met het percentage van het scherm van het apparaat*/
 }
 
 iframe.spel {
