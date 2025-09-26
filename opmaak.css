@@ -30,6 +30,12 @@ body {
   transition: 1s; /*Transitieduur*/
 }
 
+footer {
+  background-color: beige;
+  text-align: center;
+  padding: 10px;
+} /*Voettekst op de website*/
+
 h1.titel {
   margin-left: 10px;
 }
