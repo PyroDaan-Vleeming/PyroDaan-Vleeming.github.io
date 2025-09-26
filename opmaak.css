@@ -91,7 +91,7 @@ iframe.spel {
 }
 
 footer {
-  position: fixed;
+  position: fixed; /*Vaste positie van het object tijdens het scrollen*/
   bottom: 0;
   background-color: beige;
   text-align: center;
