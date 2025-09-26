@@ -30,12 +30,6 @@ body {
   transition: 1s; /*Transitieduur*/
 }
 
-footer {
-  background-color: beige;
-  text-align: center;
-  padding: 10px;
-} /*Voettekst op de website*/
-
 h1.titel {
   margin-left: 10px;
 }
@@ -94,3 +88,9 @@ iframe.spel {
   float: left;
   margin-left: 10px;
 }
+
+footer {
+  background-color: beige;
+  text-align: center;
+  padding: 10px;
+} /*Voettekst op de website*/
