@@ -91,6 +91,7 @@ iframe.spel {
 }
 
 footer {
+  margin-top: 100%;
   background-color: beige;
   text-align: center;
   padding: 10px;
