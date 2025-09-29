@@ -113,3 +113,9 @@ video {
 table {
   margin-left: 10px;
 }
+
+img.ivu {
+  float: left;
+  margin-left: 10px;
+  margin-right: 15px;
+}
