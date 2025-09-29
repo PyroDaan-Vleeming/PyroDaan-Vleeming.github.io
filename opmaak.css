@@ -52,7 +52,7 @@ p.disclaimer {
   background-color: rgb(255, 253, 108);
   border: 2px solid black; /*Kleur, dikte en type van de border van de doos*/
   border-radius: 10px; /*Hoeveel ronding heeft de doos*/
-  width: 50%; /*Breedte brekend met de percentage van het scherm*/
+  width: 50%; /*Breedte berekend met de percentage van het scherm*/
   padding: 5px;
   margin-left: 10px
 }
@@ -100,3 +100,8 @@ footer {
   padding: 10px;
   width: 100%;
 } /*Voettekst op de website*/
+
+table, th, td {
+  border: 1px solid black;
+  width: 50% 
+} /*Tabel met een vaste border van 1 pixel breed in de kleur zwart*/
