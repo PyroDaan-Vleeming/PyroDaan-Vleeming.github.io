@@ -105,3 +105,11 @@ table, th, td {
   border: 1px solid black;
   width: 40% 
 } /*Tabel met een vaste border van 1 pixel breed in de kleur zwart*/
+
+video {
+  margin-left: 10px;
+}
+
+table {
+  margin-left: 10px;
+}
