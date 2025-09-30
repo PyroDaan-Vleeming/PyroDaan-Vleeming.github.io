@@ -3,7 +3,7 @@ body {
   margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  background-color: white;
+  background-color: white; /*Achtergrondkleur van de website*/
 } /*De margins zijn voor het menu zodat het tegen de rand aanzit. De background color is voor de achtergrondkleur*/
 
 .menu ul {
